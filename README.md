@@ -1,8 +1,6 @@
 # Run_analisis
 "Peer-graded Assignment: Getting and Cleaning Data Course Project", is the final assignment of Data Science: Getting and Cleaning Data Course from Coursera provided by Johns Hopkins University
 
-This repository is a Fernando Castro submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
-
 Dataset
 Human Activity Recognition Using Smartphones
 
